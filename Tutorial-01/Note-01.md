@@ -147,7 +147,7 @@ NodeJS is a cross-platform and opensource Javascript runtime environment that al
 
 These core modules provide essential functionality for working with JavaScript on the server-side. Some of the core modules that are installed automatically with Node.js include:
 
-`fs (File System)`: This module allows you to work with the file system, including reading and writing files, creating directories, and more.
+`fs (File System)`: This module allows you to work with the file system, including reading and writing files, creating directories, and more. (For more info refer to the special tutorial)
 
 `http`: The HTTP module is essential for building web servers and making HTTP requests. It provides the tools needed to handle HTTP requests and responses.
 
