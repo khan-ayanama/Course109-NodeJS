@@ -64,7 +64,7 @@ Node.js has a large and active community of developers, which contributes to the
 
 ## Javascript Runtime
 
-avaScript runtime provides the infrastructure and environment for executing JavaScript code, whether it's in a web browser or on a server. Different runtimes have different capabilities and APIs, tailored to the specific needs of their respective domains (front-end or back-end development).
+JavaScript runtime provides the infrastructure and environment for executing JavaScript code, whether it's in a web browser or on a server. Different runtimes have different capabilities and APIs, tailored to the specific needs of their respective domains (front-end or back-end development).
 
 ### Browser Runtime
 
