@@ -51,10 +51,6 @@ Developers can write Node.js applications on one platform (e.g., Windows) and ru
 
 ### Community and Ecosystem
 
-Node.js has a large and active community of developers, which contributes to the cross-platform nature of the ecosystem. Many third-party libraries, frameworks, and tools are designed with cross-platform compatibility in mind, making it easier for developers to create applications that work seamlessly on different operating systems.
-
-* In summary, Node.js is considered cross-platform because it provides a consistent runtime environment and ecosystem for JavaScript server-side development that can be used across various operating systems, thanks to its design and the support of the JavaScript community. This makes it a versatile choice for building server applications that need to run on different platforms.
-
 * Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.
 * Node.js was built on top of Google's V8 JavaScript engine since it was open-sourced under the BSD (Berkeley Software Distribution) license.  
 * Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.  
